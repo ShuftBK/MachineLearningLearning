@@ -1,0 +1,4 @@
+mnist/
+datasets/
+.ipynb_checkpoints/
+.vscode
